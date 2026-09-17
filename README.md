@@ -11,20 +11,18 @@ allowed to call the API methods in this app).
 
 ## Installation
 
-Termux:API application can be obtained from:
+Latest version is `v0.53.0`.
 
-- [Google Play](https://play.google.com/store/apps/details?id=com.termux.api)
-- [F-Droid](https://f-droid.org/en/packages/com.termux.api/)
-- [Kali Nethunter Store](https://store.nethunter.com/en/packages/com.termux.api/)
+Termux:API application can be obtained from [F-Droid](https://f-droid.org/en/packages/com.termux.api/).
 
 Additionally we provide per-commit debug builds for those who want to try
 out the latest features or test their pull request. This build can be obtained
-from one of the workflow runs listed on [Github Actions](https://github.com/termux/termux-api/actions)
+from one of the workflow runs listed on [Github Actions](https://github.com/termux/termux-api/actions/workflows/github_action_build.yml?query=branch%3Amaster+event%3Apush)
 page.
 
 Signature keys of all offered builds are different. Before you switch the
 installation source, you will have to uninstall the Termux application and
-all currently installed plugins.
+all currently installed plugins. Check https://github.com/termux/termux-app#Installation for more info.
 
 ## License
 
